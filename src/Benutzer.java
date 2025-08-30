@@ -30,7 +30,7 @@ public class Benutzer implements Serializable{
         if (!b.isAusgeliehen()) {
             b.setAusgeliehen(true);
             ausgelieheneBuecher.add(b); 
-            System.out.println(name + " hat " + b.getTitel() +"ausgeliehen");   
+            System.out.println(name + " hat " + b.getTitel() +" ausgeliehen");   
         }
         else{
             System.out.println(b.getTitel() + " ist bereits ausgeliehen.");

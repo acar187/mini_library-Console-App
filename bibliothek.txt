@@ -1,0 +1,11 @@
+=== Bibliothek ===
+1 Titel: Gucci , Autor: Kevin Costner, ISBN: 1234 (Ausleihbar Nein)
+2 Titel: Barbie , Autor: Marvel, ISBN: 2222 (Ausleihbar Nein)
+3 Titel: The Barkeeper , Autor: Payman, ISBN: 3333 (Ausleihbar Nein)
+
+=== Benutzer ===
+Benutzer: Marcel (ID: 1089), ausgeliehen: 2
+  -Gucci
+  -Barbie
+Benutzer: Brinkmann (ID: 5113), ausgeliehen: 1
+  -The Barkeeper
